@@ -28,11 +28,11 @@ div.m_list>ul>li:hover{box-shadow: 4px 4px 4px #EEE;transition: 0.3s;}
 div.m_footer{background: #F2F2F2;}
 div.m_footer>h1{text-align: center;padding: 36px 0 20px 0;}
 div.m_footer>ul.ctn{justify-content:space-around;padding: 2rem 4rem;}
-div.m_footer>ul.ctn>li{width: 30%;text-align: center;height: 150px;border-radius: 24px;overflow: hidden;}
-div.m_footer>ul.ctn>li>p>i.iconfont{color: #fff;font-size: 60px;}
-div.m_footer>ul.ctn>li>p:first-child{height: 100px;line-height: 100px;background: rgb(240, 90, 35);}
-div.m_footer>ul.ctn>li>p:last-child{height: 50px;line-height: 50px;background: #fff;font-size: 26px;color: rgb(173,146,96);}
-div.m_footer>ul.ctn>div{height: 150px;line-height: 150px;font-size: 30px;color: rgb(173,146,96);}
+div.m_footer>ul.ctn>li.ctnText{width: 30%;text-align: center;height: 150px;border-radius: 24px;overflow: hidden;}
+div.m_footer>ul.ctn>li.ctnText>p>i.iconfont{color: #fff;font-size: 60px;}
+div.m_footer>ul.ctn>li.ctnText>p:first-child{height: 100px;line-height: 100px;background: rgb(240, 90, 35);}
+div.m_footer>ul.ctn>li.ctnText>p:last-child{height: 50px;line-height: 50px;background: #fff;font-size: 26px;color: rgb(173,146,96);}
+div.m_footer>ul.ctn>li.lg{height: 150px;line-height: 150px;font-size: 30px;color: rgb(173,146,96);}
 div.m_footer>ul.txt{display: block;padding: 0 4rem 1.2rem;}
 div.m_footer>ul.txt>li{list-style:inside;line-height: 32px;color: #666;}
 footer{background: #D7D7D7;padding: 0 2.6rem;color: #666;display: flex;justify-content:space-between;}
